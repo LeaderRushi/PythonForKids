@@ -10,8 +10,7 @@ print("Hello World")
 N = input ("How many times do you want to print?\n")
 N = int (N)
 for index in range (1,N+1):
-    print ("Happy birthday Saina!!")
-    
+    print ("Happy birthday Saina!!")   
 N = input ("I can find sum of numbers up to N. Please type N and press enter") 
 N = int (N)
 Sum = 0
@@ -23,4 +22,4 @@ print("Sum is ", Sum)
 
 
 
-    
+      
